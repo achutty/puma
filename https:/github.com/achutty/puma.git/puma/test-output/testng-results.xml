@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Buy Sports T-Shirts, Tracks, Running Shoes and Accessories Online - in.puma.com]]>
+    </line>
+    <line>
+      <![CDATA[Expected title is matching with Actual title]]>
+    </line>
+    <line>
+      <![CDATA[The element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The element is clickable]]>
+    </line>
+    <line>
+      <![CDATA[The element is clickable]]>
+    </line>
+    <line>
+      <![CDATA[Element is still not clickable after 50000 ms]]>
+    </line>
+    <line>
+      <![CDATA[The element is visible]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135206" started-at="2018-05-09T05:52:22Z" finished-at="2018-05-09T05:54:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135206" started-at="2018-05-09T05:52:22Z" finished-at="2018-05-09T05:54:37Z">
+      <class name="com.puma.Script.ValidatedShoesTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.puma.Script.ValidatedShoesTest@29774679]" name="openBrowser" is-config="true" duration-ms="59474" started-at="2018-05-09T11:22:22Z" finished-at="2018-05-09T11:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateShoes()[pri:0, instance:com.puma.Script.ValidatedShoesTest@29774679]" name="validateShoes" duration-ms="75634" started-at="2018-05-09T11:23:21Z" finished-at="2018-05-09T11:24:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Buy Sports T-Shirts, Tracks, Running Shoes and Accessories Online - in.puma.com]]>
+            </line>
+            <line>
+              <![CDATA[Expected title is matching with Actual title]]>
+            </line>
+            <line>
+              <![CDATA[The element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The element is clickable]]>
+            </line>
+            <line>
+              <![CDATA[The element is clickable]]>
+            </line>
+            <line>
+              <![CDATA[Element is still not clickable after 50000 ms]]>
+            </line>
+            <line>
+              <![CDATA[The element is visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateShoes -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.puma.Script.ValidatedShoesTest@29774679]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2018-05-09T11:24:37Z" finished-at="2018-05-09T11:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.puma.Script.ValidatedShoesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
